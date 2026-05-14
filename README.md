@@ -89,6 +89,6 @@ This project helped build practical understanding of:
 
 Vrutant Vaghela
 
-GitHub: 
+GitHub: vrut-data
 
 LinkedIn: www.linkedin.com/in/vrutantvaghela
